@@ -1,0 +1,1 @@
+This is just a simple three-page website, with a responsive design. One of my reference work. 
